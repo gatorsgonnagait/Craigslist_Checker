@@ -1,0 +1,3 @@
+bicycle,example@email.com,los angeles
+surfboard,example@email.com,orange county
+
